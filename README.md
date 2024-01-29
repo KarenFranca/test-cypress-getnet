@@ -10,8 +10,8 @@ Este projeto é uma automação de teste para o cadastro de novos usuários em u
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd nome-do-projeto
+git clone https://github.com/KarenFranca/test-cypress-getnet.git
+cd my-cypress-test
 npm install
 Configuração
 Ajuste a URL da API:
