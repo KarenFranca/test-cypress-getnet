@@ -39,6 +39,7 @@ Envio de uma requisição POST para o endpoint /api/users com dados do usuário.
 Verificação se a resposta tem o status 201 (Created).
 Verificação das informações retornadas na resposta, como o nome, cargo, ID e data de criação.
 Estrutura do Projeto
-cypress/integration: Contém os arquivos de teste Cypress.
+cypress/e2e: Contém os arquivos de teste Cypress.
+cypress/pojo: Contém os arquivos pojo.
 cypress/support: Pode conter arquivos de suporte, como comandos personalizados.
 cypress/plugins: Pode conter plugins Cypress, se necessário.
